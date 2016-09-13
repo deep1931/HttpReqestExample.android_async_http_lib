@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Http </string>
+    <string name="start">Start</string>
+    <string name="intro">To start Http request click on start button</string>
+</resources>
